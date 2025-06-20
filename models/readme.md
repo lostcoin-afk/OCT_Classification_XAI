@@ -1,4 +1,4 @@
-use the early model runner to run the models
+use the every model runner to run the models
 Model 1: LBP-SVM
 Model 2: GoogleNet-RandomForest
 Model 3: Resnet Pretrained
